@@ -3,7 +3,7 @@ Easy to use small framework for faster model development and visualization
 
 
 ## Usage
- - git pull 
+ - clone the repo
  - create conda environment (conda env create -f env_specs.yml)
  - choose or define a model (`models/your_model.py`)
  - choose or define a dataset_loader
@@ -14,7 +14,7 @@ Easy to use small framework for faster model development and visualization
 ### Future works
 
  1. Refactor and improve backbone functionality
- 2. Add examples and improve documentation
+ 2. Add examples (MixNet, EfficientNet, gans etc) and improve documentation
  3. Add multiple models and layers
  5. *Add more image enhancement techniques*
  6. *Add or facilitate more complex image visualization methods (matplotlib ... facets)*
